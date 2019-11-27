@@ -1,7 +1,7 @@
-##EMG-analysis of M. infraspinatus and M. deltoideus in external rotation with and without simultaneous adduction force
-###Software and data repository
+## EMG-analysis of M. infraspinatus and M. deltoideus in external rotation with and without simultaneous adduction force
+### Software and data repository
 
-###Files:
+### Files:
 
 
 
