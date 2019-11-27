@@ -1,0 +1,190 @@
+Ordning av MVIC och testpositioner
+------------------------------------------
+TP 1
+
+MVIC:
+1. DPP
+2. INF
+3. DPI
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 2
+
+MVIC:
+1. INF
+2. DPP
+3. DPI
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 3
+2019-11-04 09:45:01
+MVIC:
+1. DPP
+2. INF
+3. DPI
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+
+------------------------------------------
+TP 4
+2019-11-05 09:59:33
+MVIC:
+1. INF
+2. DPI
+3. DPP
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 5
+2019-11-05 13:00:26
+MVIC:
+1. DPI
+2. INF
+3. DPP
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 6
+2019-11-06 11:09:03
+MVIC:
+1. INF
+2. DPP
+3. DPI
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 7
+2019-11-07 07:49:19
+MVIC:
+1. DPI
+2. INF
+3. DPP
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 8
+2019-11-08 12:59:15
+MVIC:
+1. INF
+2. DPI
+3. DPP
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 9
+2019-11-09 11:09:44
+MVIC:
+1. DPP
+2. INF
+3. DPI
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 10
+2019-11-11 09:59:07
+MVIC:
+1. DPP
+2. INF
+3. DPI
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 11
+2019-11-12 08:18:14
+MVIC:
+1. DPP
+2. DPI
+3. INF
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 12
+2019-11-12 10:01:32
+MVIC:
+1. DPI
+2. DPP
+3. INF
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 13
+2019-11-13 12:00:32
+MVIC:
+1. INF
+2. DPP
+3. DPI
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 14
+2019-11-13 15:07:59
+MVIC:
+1. DPP
+2. DPI
+3. INF
+
+Testpositioner:
+1. Ej adduktion
+2. Adduktion
+------------------------------------------
+TP 15
+2019-11-14 07:49:36
+MVIC:
+1. DPI
+2. INF
+3. DPP
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 16
+2019-11-14 09:42:30
+MVIC:
+1. INF
+2. DPI
+3. DPP
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
+TP 17
+2019-11-14 11:04:20
+MVIC:
+1. DPI
+2. INF
+3. DPP
+
+Testpositioner:
+1. Adduktion
+2. Ej adduktion
+------------------------------------------
