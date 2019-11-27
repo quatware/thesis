@@ -1,7 +1,7 @@
 ﻿* Encoding: UTF-8.
 GET DATA
   /TYPE=XLSX
-  /FILE='C:\Users\pk\Documents\_Exarbetet\data\LabDataUppsats\LabDataUppsatsFINAL.xlsx'
+  /FILE='C:\Users\pk\Documents\_Exarbetet\data\LabDataUppsats\EMG_values.xlsx'
   /SHEET=name 'Sheet1'
   /CELLRANGE=RANGE 'A2:AK19'
   /READNAMES=ON
