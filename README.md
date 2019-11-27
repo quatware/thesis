@@ -8,7 +8,7 @@
 
 **emgplots.py:** Program to make a pandas dataframe from emgdata.csv and generate some diagrams.
 
-**TestRand2000** Program to randomize test orders.
+**TestRand2000:** Program to randomize test orders.
 
 **EMG_values.xlsx:** Excel file with anonymous data and measurement values.
 
