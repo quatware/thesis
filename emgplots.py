@@ -8,6 +8,8 @@ import matplotlib.patches as mpatches
 import numpy as np
 import datetime
 
+plt.rcParams["font.family"] = "serif"
+
 # read csv
 df = pd.read_csv('./emgdata.csv')
 
